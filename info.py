@@ -10,7 +10,3 @@
 # features["date"]="27.05.2019"
 # print(features)
 # print(len(features))
-def do_something():
-    print("Я внутри функции!")
-  File "", line 2
-    print("Я внутри функции!")
